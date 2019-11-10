@@ -1,6 +1,5 @@
-Exploratory-data-analysis-project-2
-===================================
-This is project 2 of the exploratory data analysis course on Coursera.
+Exploratory  Data Analysis Project 2
+====================================
 
 Instructions
 ------------
